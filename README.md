@@ -26,3 +26,5 @@ To analyze company employee data to uncover insights related to workforce distri
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
+<img width="1243" height="695" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/63672f63-6d4e-405b-bb3c-0fe15be40682" />
+
